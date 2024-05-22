@@ -1,4 +1,4 @@
-https://github.com/vijayinyoutube/local_notification_app_demo/blob/master/android/app/build.gradle
+// https://github.com/vijayinyoutube/local_notification_app_demo/blob/master/android/app/build.gradle
 
 # Local Notifications
 
