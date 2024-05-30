@@ -1,6 +1,6 @@
 # local_notification
 
-A new Flutter project.
+A new Flutter local notification project.
 
 using flutter_local_notifications Package - https://pub.dev/packages/flutter_local_notifications
 
